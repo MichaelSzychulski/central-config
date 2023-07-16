@@ -3,8 +3,10 @@
     <ExternalSystemSettings>
       <option name="env">
         <map>
-          <entry key="ACTIVE_PROFILE" value="test" />
-          <entry key="LABEL" value="develop" />
+          <entry key="ANIMAL" value="zebra" />
+          <entry key="BRANCH" value="native" />
+          <entry key="FRUIT" value="orange" />
+          <entry key="PROFILE" value="mock" />
         </map>
       </option>
       <option name="executionName" />

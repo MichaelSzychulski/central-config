@@ -1,6 +1,15 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Run server" type="GradleRunConfiguration" factoryName="Gradle">
     <ExternalSystemSettings>
+      <option name="env">
+        <map>
+          <entry key="ANIMAL" value="dog" />
+          <entry key="BRANCH" value="main2" />
+          <entry key="FRUIT" value="apple" />
+          <entry key="PROFILE" value="uat" />
+          <entry key="ds" value="$" />
+        </map>
+      </option>
       <option name="executionName" />
       <option name="externalProjectPath" value="$PROJECT_DIR$/server" />
       <option name="externalSystemIdString" value="GRADLE" />
